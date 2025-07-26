@@ -8,16 +8,24 @@ Role-based Access
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/c205b9b4-0515-426d-ab68-26974722138c" />
 
 - Admin
+  <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/149646a9-00b0-485b-9232-aef75e075d5b" />
+
   - View all user-submitted queries
   - Respond to queries
   - Update status (New, In Progress, Resolved)
 - Customer
+- <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/0f80b8cb-1a23-4c4b-a3d1-72e176b5704c" />
+
   - Register/Login securely
   - Submit new queries with optional file upload
   - View their query history and admin responses
 
 Query Management
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/933a80b7-cbd4-4212-8b8f-c4ab67eb3870" />
+
 - Query submission includes:
+  <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/54b858b5-bf4e-481a-b2de-29d7aca9c33b" />
+
   - Subject
   - Message
   - Category
