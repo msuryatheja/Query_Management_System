@@ -80,3 +80,32 @@ query-system/
 ├── register.html
 └── index.html
 
+workflow:
+step 1:
+Register-for-customer
+  <img width="1365" height="599" alt="Register-for-customer" src="https://github.com/user-attachments/assets/5b824475-d88e-4db9-9d08-e38a42b84f28" />
+step 2:
+login-cutomer
+<img width="1365" height="597" alt="login-cutomer" src="https://github.com/user-attachments/assets/4654a970-4433-464c-869b-8b9eec4f800c" />
+step 3:
+customer-query
+<img width="1354" height="591" alt="customer-query" src="https://github.com/user-attachments/assets/17cf5c42-cc7f-4aa0-99aa-04df19d98036" />
+step 4:
+Register-for-admin
+<img width="1365" height="606" alt="Register-for-admin" src="https://github.com/user-attachments/assets/4961eac2-e8c2-434c-925a-9ae8bd97f934" />
+step 5:
+login-admin
+<img width="1365" height="604" alt="login-admin" src="https://github.com/user-attachments/assets/98682d33-f280-4b47-81b1-6285101ed2a6" />
+step 6:
+responce-from-admin
+<img width="1365" height="603" alt="responce-from-admin" src="https://github.com/user-attachments/assets/3effd37a-3f42-447d-a076-2e4cc5d86f1b" />
+step 7:
+responce-received-to-customer
+<img width="1365" height="600" alt="responce-received-to-customer" src="https://github.com/user-attachments/assets/2620fcfe-441e-45b3-8255-a78fd3986c75" />
+
+
+
+
+
+
+
