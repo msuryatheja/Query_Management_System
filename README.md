@@ -4,7 +4,7 @@ A role-based full-stack web application for managing user queries, built with PH
 
 Features
 
--> Role-based Access
+Role-based Access
 - Admin
   - View all user-submitted queries
   - Respond to queries
