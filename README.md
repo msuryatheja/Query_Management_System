@@ -5,6 +5,8 @@ A role-based full-stack web application for managing user queries, built with PH
 Features
 
 Role-based Access
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/c205b9b4-0515-426d-ab68-26974722138c" />
+
 - Admin
   - View all user-submitted queries
   - Respond to queries
